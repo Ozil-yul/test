@@ -1,0 +1,82 @@
+.inf {
+    color: #9B9B9B;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+}
+.button {
+    background: #DFC900;
+    color: #050505;
+height: 48px;
+width: 320px;
+text-align: center;
+padding: 10px;
+
+}
+.button:hover {
+background:#050505  ;
+color: #DFC900;
+}
+.button2 {
+    background: #DFC900;
+    height: 48px;
+    width: 320px;
+    text-align: center;
+    
+}
+.button2:hover {
+background:#050505  ;
+color: #DFC900;
+}
+
+.text {
+    size: 16px;
+    width: 730px;
+    padding: 25px 95px 52px 40px;
+    box-sizing: border-box;
+    border: 2px solid #F0F0F0;
+    line-height: 25px;
+    color: #808080;
+}
+
+
+
+.spec__wrap {
+    width: 1120px;
+    display: flex;
+    gap: 30px;
+    flex-direction: column;
+    
+    
+}
+
+.spec__info {
+    width: 730px;
+    height: 500px;
+}
+
+.spec__title {
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 700;
+    text-align: start;
+    color:#000000;
+    padding: 50px 0 0 40px;
+}
+
+.spec__info-text1 {
+    size: 16px;
+    width: 730px;
+    padding: 25px 95px 52px 40px;
+    box-sizing: border-box;
+    line-height: 25px;
+    color: #808080;
+}
+
+
+
+
+
+
+
+

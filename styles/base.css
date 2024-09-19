@@ -1,0 +1,31 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Roboto' , sans-serif;
+    list-style: none;
+}
+.container {
+    max-width: 1440px;
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+.title {
+    text-align: center;
+    background: #D9D6D3;
+    padding: 30px;
+    
+}
+.title__purple {
+    color: #fff;
+    background: #9A98EA;
+    border-radius: 5px;
+}
+.price {
+    column-gap: 32px;
+}
+
+

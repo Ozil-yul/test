@@ -1,0 +1,48 @@
+.section__one {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 560px;
+    gap: 45px;
+    background: #D9D6D3;
+
+}
+
+.section__one-card.white {
+    width: 350px;
+    height: 514px;
+    background: #fff;
+}
+.section__one-card {
+    width: 250px;
+    height: 450px;
+    color: #fff;
+    
+}
+
+.section__one-image  { 
+    width: 100%;
+   text-align: center;
+}
+.section__information-h1{
+    color: #2C2A2A;
+    font-family: Roboto;
+font-size: 22px;
+font-weight: 700;
+line-height: 25.78px;
+text-align: left;
+
+}
+.inf{
+    font-family: Roboto;
+font-size: 16px;
+font-weight: 300;
+line-height: 18.75px;
+text-align: justified;
+
+}
+.section__two-card.white {
+    width: 3300px;
+    height: 470px;
+    background: #fff;
+}
